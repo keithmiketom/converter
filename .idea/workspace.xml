@@ -101,13 +101,13 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="untitled" />
+              <option name="myItemId" value="converter" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -350,11 +350,12 @@
       <updated>1394476804945</updated>
       <workItem from="1394476811905" duration="108000" />
       <workItem from="1394476976353" duration="143000" />
+      <workItem from="1394477399209" duration="265000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="251000" />
+    <option name="totallyTimeSpent" value="516000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="260" y="109" width="1400" height="1000" extended-state="0" />
